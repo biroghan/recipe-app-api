@@ -1,5 +1,4 @@
-FROM python:3.7-alpine
-MAINTAINER Tabriz App Developer Ltd
+FROM python:3
 
 ENV PYTHONUNBUFFERED 1
 
